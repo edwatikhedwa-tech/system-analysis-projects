@@ -23,7 +23,7 @@
 
 | Артефакт | Ссылка |
 | :--- | :--- |
-| Диаграмма потоков данных (DFD) | [`diagrams/dfd.png`](diagrams/) · исходник `.drawio` рядом |
+| Диаграмма потоков данных (DFD) | на общей доске команды в Miro |
 | Карта пользовательских историй | [Miro](https://miro.com/app/board/uXjVGG2nunM=/?share_link_id=862371409944) — мои истории выделены коричневым |
 | Прототипы интерфейса | [Figma](https://www.figma.com/design/z3yiZAq5yKoZbsDfqpQQcV/) |
 
